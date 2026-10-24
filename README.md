@@ -18,6 +18,7 @@ Data analyst based in Toronto, turning messy data into decisions on pricing, ope
 
 | Project | What it does | Tools |
 |---|---|---|
+| [Financial Report RAG](https://github.com/Ritikaa-2002/financial-report-rag) | Q&A over 10-K filings with page citations; finance-aware retrieval raised answer-page accuracy from 46% to 76% on held-out companies | Python, scikit-learn, RAG, Claude API |
 | [Portfolio Performance Analyzer](https://github.com/Ritikaa-2002/portfolio-analyzer) | Out-of-sample backtest of four portfolio optimization strategies on Canadian ETFs vs the TSX 60 | Python, PyPortfolioOpt, QuantStats |
 | [Job Hunt Digest](https://github.com/Ritikaa-2002/n8n-job-digest) | n8n automation that emails a daily digest of new matching roles from target companies | n8n, JavaScript, APIs |
 | [Spotify Popularity and Harmonic Mixing](https://github.com/Ritikaa-2002/Spotify---Harmonial-Mixing) | Predicts song popularity and recommends harmonically compatible tracks for new releases | Python, scikit-learn |
